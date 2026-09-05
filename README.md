@@ -16,6 +16,7 @@ Università degli Studi di Messina.
 | `Conto Bancario/` | Eccezioni custom (`SaldoInsufficienteException`) applicate a un caso reale |
 | `Socket/` | Programmazione di rete: lookup DNS, client/server con `Socket` e `ServerSocket` |
 | `Primo Appello/` | Esercizi svolti in stile appello d'esame, con [README dedicato](Primo%20Appello/README.md) che riporta punteggio e traccia |
+| `Esercitazione/` | Secondo set di esercizi (polimorfismo, membri statici, ereditarietà con `Runnable`), con [README dedicato](Esercitazione/README.md) |
 
 ## Note
 
