@@ -1,6 +1,9 @@
 # Bytecode compilato
 *.class
 
+# File binari generati a runtime (es. serializzazione)
+*.bin
+
 # Archivi
 *.jar
 *.war
