@@ -4,6 +4,9 @@
 # File binari generati a runtime (es. serializzazione)
 *.bin
 
+# File di testo generati a runtime dagli esercizi di I/O
+saluto.txt
+
 # Archivi
 *.jar
 *.war

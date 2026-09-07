@@ -18,11 +18,12 @@ Università degli Studi di Messina.
 | `Primo Appello/` | Esercizi svolti in stile appello d'esame, con [README dedicato](Primo%20Appello/README.md) che riporta punteggio e traccia |
 | `Esercitazione/` | Secondo set di esercizi (polimorfismo, membri statici, ereditarietà con `Runnable`), con [README dedicato](Esercitazione/README.md) |
 | `Serializable/` | Persistenza di oggetti su file con `ObjectOutputStream`/`ObjectInputStream` — "Salva-Libri" e "Salva-Partita", ciascuno con [README dedicato](Serializable/GestoreLibri/README.md) |
+| `PrintWriter/` | Scrittura e lettura di file di testo con `PrintWriter` e `Scanner` — "Gestore di Note", con [README dedicato](PrintWriter/README.md) |
 
 ## Note
 
 - Ogni cartella è un esercizio a sé stante — nessuna dipendenza tra i pacchetti.
-- I file `.class` compilati e i file `.bin` generati a runtime (es. dagli esercizi di serializzazione) non sono tracciati (vedi `.gitignore`); si compila al volo con `javac` / `java NomeFile.java`.
+- I file `.class` compilati e i file generati a runtime dagli esercizi di I/O (es. `.bin` dalla serializzazione, `saluto.txt` da `PrintWriter`) non sono tracciati (vedi `.gitignore`); si compila al volo con `javac` / `java NomeFile.java`.
 - Alcuni esercizi in `Primo Appello/` includono un promemoria dei punti dell'appello originale, utile per ripasso.
 
 ## Come compilare ed eseguire
