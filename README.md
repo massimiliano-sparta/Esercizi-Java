@@ -14,7 +14,7 @@ Università degli Studi di Messina.
 | `Persone/` | Gerarchia a più livelli (`Lavoratore` astratta → `Dipendente` → `Manager`, `Programmatore`) |
 | `Eccezioni/` | Gestione delle eccezioni: `try/catch/finally`, eccezioni standard (`ArithmeticException`, `ArrayIndexOutOfBoundsException`) |
 | `Conto Bancario/` | Eccezioni custom (`SaldoInsufficienteException`) applicate a un caso reale |
-| `Socket/` | Programmazione di rete: lookup DNS, client/server con `Socket` e `ServerSocket` |
+| `Socket/` | Programmazione di rete: lookup DNS, client/server con `Socket` e `ServerSocket` — con esempio commentato da traccia d'esame in [`Socket/Esempio/README.md`](Socket/Esempio/README.md) |
 | `Primo Appello/` | Esercizi svolti in stile appello d'esame, con [README dedicato](Primo%20Appello/README.md) che riporta punteggio e traccia |
 | `Esercitazione/` | Secondo set di esercizi (polimorfismo, membri statici, ereditarietà con `Runnable`), con [README dedicato](Esercitazione/README.md) |
 | `Serializable/` | Persistenza di oggetti su file con `ObjectOutputStream`/`ObjectInputStream` — "Salva-Libri" e "Salva-Partita", ciascuno con [README dedicato](Serializable/GestoreLibri/README.md) |
